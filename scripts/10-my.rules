@@ -1,3 +1,1 @@
-ACTION=="add" \
-, SUBSYSTEM=="block" \
-, RUN+="/home/pi/isoinstaller/scripts/installimage.sh '$env{DEVNAME}'"
+ACTION=="add", SUBSYSTEM=="block" , RUN+="/home/pi/isoinstaller/scripts/installimage.sh '$env{DEVNAME}'"

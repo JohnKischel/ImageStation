@@ -1,0 +1,8 @@
+SCRIPTROOT: /home/pi/isoinstaller/scripts
+SCRIPTROOT: /home/pi/isoinstaller/scripts
+IMAGEPATH: /home/pi/isoinstaller/scripts/currentiso/*.iso
+SCRIPTROOT: /home/pi/isoinstaller/scripts
+IMAGEPATH: 
+SCRIPTROOT: /home/pi/isoinstaller/scripts
+SCRIPTROOT: /home/pi/isoinstaller/scripts
+IMAGEPATH: /home/pi/isoinstaller/currentiso/*.iso
